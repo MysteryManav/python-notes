@@ -1,2 +1,2 @@
-# python-notes
-Complete Python Notes
+# Python Notes
+*Coming Soon*
